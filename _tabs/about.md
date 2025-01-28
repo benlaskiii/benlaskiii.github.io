@@ -4,5 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, this is Nora. 
+
+I am a master students majoring in Informatics: Games Engineering at Technical University of Munich. I am interested in algorithms design and analysis, approximation algorithms, and graph theory. 
+
