@@ -3,13 +3,14 @@ title: Invariants in Graph Theory
 date: 2025-01-30 11:33:00 +0800
 categories: [TCS]
 tags: [graph_theory]     # TAG names should always be lowercase
+math: true
 ---
 
 Induced graph: $G=(V,E), G^{'} $ is a subgraph of G and an induced graph iff for any $ x,y\in V^{'}$, the corresponding edge $(x,y) \in G^{'} $.
 
-$\delta$(G): the minimum degree of G
+$$\delta(G)$$: the minimum degree of G
 
-$\Delta(G)$: the maximum degree of G
+$$\Delta(G)$$: the maximum degree of G
 
 $d(G)$: the average degree of G
 
