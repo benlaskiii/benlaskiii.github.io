@@ -1,6 +1,6 @@
 ---
 title: Derivatives in Finance 
-date: 2025-03-02 HH:MM:SS +/-TTTT
+date: 2025-03-02 11:33:00 +0800
 categories: [Finance]
 # tags: [graph_theory]     # TAG names should always be lowercase
 ---

@@ -1,6 +1,6 @@
 ---
 title: Invariants in Graph Theory 
-date: 2025-01-30 HH:MM:SS +/-TTTT
+date: 2025-01-30 11:33:00 +0800
 categories: [TCS]
 tags: [graph_theory]     # TAG names should always be lowercase
 ---
