@@ -6,18 +6,18 @@ tags: [graph_theory]     # TAG names should always be lowercase
 math: true
 ---
 
-Induced graph: $G=(V,E), G^{'} $ is a subgraph of G and an induced graph iff for any $ x,y\in V^{'}$, the corresponding edge $(x,y) \in G^{'} $.
+Induced graph: $$ G=(V,E), G^{'} $$ is a subgraph of G and an induced graph iff for any $$ x,y\in V^{'}$$, the corresponding edge $$(x,y) \in G^{'}$$.
 
 $$\delta(G)$$: the minimum degree of G
 
-$$\Delta(G)$$: the maximum degree of G
+$$ \Delta(G) $$: the maximum degree of G
 
-$d(G)$: the average degree of G
+$$d(G)$$: the average degree of G
 
-$\mathcal{E}(G)$: edges per vertex 
+$$\mathcal{E}(G)$$: edges per vertex 
 
-$\mathcal{E}(G) = \frac{1}{2}d(G)$ 
+$$\mathcal{E}(G) = \frac{1}{2}d(G)$$ 
 
-$g(G)$: girth, the least length of cycle in G
+$$g(G)$$: girth, the least length of cycle in G
 
 cirmumceference: length of the longest cycle in G
