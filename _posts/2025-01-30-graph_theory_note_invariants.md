@@ -14,9 +14,7 @@ $$ \Delta(G) $$: the maximum degree of G
 
 $$d(G)$$: the average degree of G
 
-$$\mathcal{E}(G)$$: edges per vertex 
-
-$$\mathcal{E}(G) = \frac{1}{2}d(G)$$ 
+$$\mathcal{E}(G)$$: edges per vertex：$$\mathcal{E}(G) = \frac{1}{2}d(G)$$ 
 
 $$g(G)$$: girth, the least length of cycle in G
 
